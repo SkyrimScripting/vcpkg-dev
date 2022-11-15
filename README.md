@@ -7,8 +7,7 @@ This is a `fork` of the "[Color-Glass Studios Vcpkg Repository](https://gitlab.c
 > For official Color-Glass Studios ports, please use their official registry!  
 > https://gitlab.com/colorglass/vcpkg-colorglass
 
-_This is a fork because I don't know how else to include dependencies on the \*amazing\* [`commonlibsse-ng`](https://github.com/CharmedBaryon/CommonLibSSE-NG) package without sharing the same registry.  
-If this is possible, we will no longer fork the Color-Glass Studios registry._
+_This is a fork because I don't know how else to include dependencies on the \*amazing\* [`commonlibsse-ng`](https://github.com/CharmedBaryon/CommonLibSSE-NG) package without sharing the same registry. If this is possible, we will no longer fork the Color-Glass Studios registry._
 
 **The following ports are released under the Skyrim Scripting [LICENSE](LICENSE)**:
 
