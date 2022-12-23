@@ -1,0 +1,16 @@
+{
+  "name": "skyrimscripting-cmake",
+  "version-string": "0.0.1",
+  "description": "CMake functions for developing Skyrim SKSE plugins",
+  "supports": "windows & x64",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
