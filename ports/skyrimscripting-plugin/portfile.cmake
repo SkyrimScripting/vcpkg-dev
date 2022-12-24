@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL https://github.com/SkyrimScripting/Plugin.git
-    REF ece591d7faf539535f0699ab747e5938970e295c
+    REF e043cdb133df11c75d35d8da02761f3331298eed
 )
 
 vcpkg_cmake_configure(SOURCE_PATH "${SOURCE_PATH}")
