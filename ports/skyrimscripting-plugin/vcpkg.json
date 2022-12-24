@@ -1,6 +1,7 @@
 {
   "name": "skyrimscripting-plugin",
-  "version-string": "0.0.1",
+  "version-string": "0.1.0",
+  "port-version": 1,
   "description": "Header-only library to make building your SKSE plugins for Skyrim easier",
   "supports": "windows & x64",
   "dependencies": [
