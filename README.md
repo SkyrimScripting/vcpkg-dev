@@ -1,3 +1,3 @@
 # Skyrim Scripting's `vcpkg` Registry
 
-![Skyrim Scripting](https://github.com/SkyrimScripting/Design/blob/main/Images/SkyrimScripting_Logo.png)
+![Skyrim Scripting](https://raw.githubusercontent.com/SkyrimScripting/Resources/main/SkyrimScripting/Logo/Images/SkyrimScripting_Logo.png)
